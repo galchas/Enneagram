@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Enneagram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_yourself">בחן את עצמך</string>
+    <string name="start">התחל</string>
+    <string name="choose_the_right">בחר את התשובה הנכונה ביותר עבורך:</string>
+    <string name="placeholder">מוסן מנת. להאמית קרהשק סכעיט דז מא, מנכם למטכין נשואי מנורך. קונדימנטום קורוס בליקרה, נונסטי קלובר בריקנה סטום, לפריקך תצטריק לרטי.</string>
+    <string name="ans_true">נכון לגבי</string>
+    <string name="ans_false">לא מדויק</string>
+</resources>
